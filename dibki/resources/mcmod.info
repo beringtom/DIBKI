@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dibki",
+  "name": "Decorating IbkiCraft",
+  "description": "Decorative items that makes our city come to life.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "http://ibkicraft.dk/dibki",
+  "updateUrl": "http://ibkicraft.dk/dibki",
+  "credits": "The Forge and FML guys, for making this mod possible",
+  "authorList": ["Beringtom", "MoonSphinx", "Komoden"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
